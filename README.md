@@ -1,4 +1,4 @@
-AI Logging Agent
+## AI Logging Agent
 
 This is a simple AI logging agent - focused and effective.
 
