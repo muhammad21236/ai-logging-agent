@@ -19,7 +19,7 @@ This is a simple AI logging agent - focused and effective.
 ## Project Structure
 
 ```
-07/
+ai-logging-agent/
 ├── src/
 │   ├── main.py              # Entry point
 │   ├── config.py            # Configuration management
