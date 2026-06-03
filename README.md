@@ -1,4 +1,4 @@
-# Chapter 7: Building Your First AI Logging Agent
+AI Logging Agent
 
 This is a simple AI logging agent - focused and effective.
 
@@ -60,11 +60,6 @@ cp .env.example .env
 Run the interactive agent:
 ```bash
 python -m src
-```
-
-Or use the Makefile:
-```bash
-make run
 ```
 
 ## Example Conversation
